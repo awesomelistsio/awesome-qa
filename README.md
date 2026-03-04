@@ -21,6 +21,7 @@ Quality Assurance is crucial for delivering high-quality, stable, and secure sof
 - [Test Case Management](#test-case-management)
 - [Performance Testing](#performance-testing)
 - [Mobile Testing](#mobile-testing)
+- [Accessibility Testing](#accessibility-testing)
 - [Security Testing](#security-testing)
 - [Learning Resources](#learning-resources)
 - [Communities & Conferences](#communities--conferences)
@@ -74,6 +75,14 @@ Quality Assurance is crucial for delivering high-quality, stable, and secure sof
 - [Appium](https://appium.io/) – Automate native, mobile web, and hybrid applications.
 - [Espresso](https://developer.android.com/training/testing/espresso) – Android UI testing tool.
 - [XCUITest](https://developer.apple.com/documentation/xctest) – Apple’s testing framework for iOS.
+
+## Accessibility Testing
+
+- [axe-core](https://github.com/dequelabs/axe-core) – Industry-standard open-source accessibility testing engine used by Google, Microsoft, and the US government.
+- [WAVE](https://wave.webaim.org/) – WebAIM's browser extension providing visual accessibility evaluation with icons overlaid on the page.
+- [Pa11y](https://pa11y.org/) – Command-line accessibility testing tool, ideal for CI/CD pipeline integration.
+- [RatedWithAI](https://ratedwithai.com/) – AI-powered WCAG accessibility scanner with automated monitoring and compliance reporting.
+- [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/) – Built-in Chrome tool that includes accessibility auditing alongside performance and SEO checks.
 
 ## Security Testing
 
