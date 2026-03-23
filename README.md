@@ -21,7 +21,7 @@ Quality Assurance is crucial for delivering high-quality, stable, and secure sof
 - [Test Case Management](#test-case-management)
 - [Performance Testing](#performance-testing)
 - [Mobile Testing](#mobile-testing)
-- [Accessibility Testing](#accessibility-testing)
+- [Accessibility Testing](#web-accessibility-testing)
 - [Security Testing](#security-testing)
 - [Learning Resources](#learning-resources)
 - [Communities & Conferences](#communities--conferences)
@@ -76,13 +76,13 @@ Quality Assurance is crucial for delivering high-quality, stable, and secure sof
 - [Espresso](https://developer.android.com/training/testing/espresso) – Android UI testing tool.
 - [XCUITest](https://developer.apple.com/documentation/xctest) – Apple’s testing framework for iOS.
 
-## Accessibility Testing
+## Web Accessibility Testing
 
-- [axe-core](https://github.com/dequelabs/axe-core) – Industry-standard open-source accessibility testing engine used by Google, Microsoft, and the US government.
-- [WAVE](https://wave.webaim.org/) – WebAIM's browser extension providing visual accessibility evaluation with icons overlaid on the page.
-- [Pa11y](https://pa11y.org/) – Command-line accessibility testing tool, ideal for CI/CD pipeline integration.
-- [RatedWithAI](https://ratedwithai.com/) – AI-powered WCAG accessibility scanner with automated monitoring and compliance reporting.
-- [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/) – Built-in Chrome tool that includes accessibility auditing alongside performance and SEO checks.
+- [Accessibility Insights](https://accessibilityinsights.io/) - Microsoft's free tool for web and Windows accessibility testing with guided assessments.
+- [axe-core](https://github.com/dequelabs/axe-core) - Open-source accessibility testing engine by Deque, the industry standard used by Chrome DevTools and Microsoft.
+- [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Built-in Chrome DevTools auditing for accessibility alongside performance, SEO, and best practices.
+- [Pa11y](https://pa11y.org/) - Command-line accessibility testing tool, ideal for CI/CD pipeline integration and automated workflows.
+- [WAVE](https://wave.webaim.org/) - Browser extension providing visual accessibility evaluation with issue icons overlaid on the page.
 
 ## Security Testing
 
